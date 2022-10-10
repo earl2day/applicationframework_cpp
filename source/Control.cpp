@@ -1,10 +1,10 @@
 #include "../include/Control.hpp"
 
-ApplicationFramework::Control::Control()
+Framework::Control::Control()
 {
 }
 
-ApplicationFramework::Control::~Control()
+Framework::Control::~Control()
 {
 }
 

@@ -1,9 +1,9 @@
 #include "../include/View.hpp"
 
-ApplicationFramework::View::View()
+Framework::View::View()
 {
 }
 
-ApplicationFramework::View::~View()
+Framework::View::~View()
 {
 }

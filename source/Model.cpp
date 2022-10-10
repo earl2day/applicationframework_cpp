@@ -1,9 +1,9 @@
 #include "../include/Model.hpp"
 
-ApplicationFramework::Model::Model()
+Framework::Model::Model()
 {
 }
 
-ApplicationFramework::Model::~Model()
+Framework::Model::~Model()
 {
 }

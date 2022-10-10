@@ -1,7 +1,7 @@
-#ifndef _APPLICATION_FRAMEWORK_CPP_CONTROL_HPP_
-#define _APPLICATION_FRAMEWORK_CPP_CONTROL_HPP_
+#ifndef _APPLICATION_FRAMEWORK_CONTROL_HPP_
+#define _APPLICATION_FRAMEWORK_CONTROL_HPP_
 
-namespace ApplicationFramework
+namespace Framework
 {
  class Control
  {

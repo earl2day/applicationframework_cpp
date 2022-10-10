@@ -1,7 +1,7 @@
-#ifndef _APPLICATION_FRAMEWORK_CPP_VIEW_HPP_
-#define _APPLICATION_FRAMEWORK_CPP_VIEW_HPP_
+#ifndef _APPLICATION_FRAMEWORK_VIEW_HPP_
+#define _APPLICATION_FRAMEWORK_VIEW_HPP_
 
-namespace ApplicationFramework
+namespace Framework
 {
  class View
  {
